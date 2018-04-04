@@ -6,7 +6,7 @@
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  background: url('../img/bg.jpg') no-repeat center center fixed;
+  background-color: black; /* The pinkish colour that might be used = #F4CECD */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
