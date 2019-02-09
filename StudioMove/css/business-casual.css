@@ -69,3 +69,21 @@ hr.divider {
 .map-container iframe.clicked {
   pointer-events: auto;
 }
+
+/* This is for the timetable table*/
+table.tableizer-table {
+  font-size: 12px;
+  border: 1px solid #CCC;
+}
+.tableizer-table td {
+  padding: 4px;
+  margin: 3px;
+  border: 1px solid #CCC;
+  background-color: #f9f9f9;
+}
+.tableizer-table th {
+  font-size: 14px;
+  background-color: black;
+  color: #FFF;
+  font-weight: bold;
+}
