@@ -72,6 +72,7 @@ hr.divider {
 
 /* This is for the timetable table*/
 table.tableizer-table {
+  font-size: 12px;
   border: 1px solid #CCC;
 }
 .tableizer-table td {
